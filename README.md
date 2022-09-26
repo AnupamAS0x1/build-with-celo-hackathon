@@ -1,6 +1,6 @@
 # ⚡ Greenefi with Celo Hackthon ⚡ 
 
-Greenefi Decentralized Application: Greenefi (ReFi)
+Greenefi Decentralized Application: Greenefi (SocialFi)
 
 # Description 
 
